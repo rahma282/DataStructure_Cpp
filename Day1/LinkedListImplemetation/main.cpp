@@ -10,7 +10,7 @@ cout<<"-----------------------------------------"<<endl;
 int main()
 {
    LinkedList<int> linkedList;
-
+    //add the list elements
     linkedList.add(1);
     linkedList.add(2);
     linkedList.add(3);
