@@ -2,7 +2,6 @@
 #define STACKLINKEDLIST_
 #include "StackNode.h"
 #include <iostream>
-#include <stdexcept>
 using namespace std;
 
 class StackLinkedList
